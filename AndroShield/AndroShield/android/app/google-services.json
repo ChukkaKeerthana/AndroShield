@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "436552729653",
+    "project_id": "auth-fba72",
+    "storage_bucket": "auth-fba72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:436552729653:android:509f4542cb329e0e545d7c",
+        "android_client_info": {
+          "package_name": "com.example.firebase_signin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "436552729653-7fng0kri10judhgpibfh0sq43viso9po.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZM-rKcaJSBLMtA4MbxHpd2qcEXRIJvKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "436552729653-7fng0kri10judhgpibfh0sq43viso9po.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
