@@ -4,9 +4,6 @@
 <br />
 <div align="center">
   
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="![Shield](https://user-images.githubusercontent.com/113005012/213994303-7a66162e-dfd1-4cf3-a71e-11cae4d900ca.jpg)" alt="Logo" width="80" height="80">
-  </a>
 
 ![Shield](https://user-images.githubusercontent.com/113005012/213994303-7a66162e-dfd1-4cf3-a71e-11cae4d900ca.jpg)
   
