@@ -12,12 +12,12 @@
   <p align="center">
     A Simple Flutter app that lets users upload and check if an APK is safe to install or not.
     <br />
-    ## Demo
+   
 
 Check out the demo of the project [here](https://drive.google.com/file/d/19Yb_Q7qUB4AgOKGDVbNzOcg93LSB6ty9/view?usp=sharing).
 
     
-    <br />
+    
   </p>
 </div>
 
